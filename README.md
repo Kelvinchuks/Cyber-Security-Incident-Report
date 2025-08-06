@@ -22,4 +22,4 @@ manager about this problem quickly and discuss the next steps to stop this attac
 this problem from happening again. You will need to be prepared to tell your boss about the type of 
 attack you discovered and how it was affecting the web server and employees
 
-Click the link to the Incident report documentation: [Incident report}()
+Click the link to my Incident report documentation: [Incident report] (https://github.com/Kelvinchuks/Cyber-Security-Incident-Report/blob/Kelvinchuks/Cybersecurity-incident-report-SYN%20Flood%20Attack.pdf)
